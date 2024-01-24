@@ -14,7 +14,7 @@
 
 <!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
 <div align="center">
-    <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=maya&exclude_repo=github-readme-stats-2,github-readme-streak-stats,readme-typing-svg,github-readme-streak-stats-vercel,linkedin-skill-assessments-quizzes&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true&card_width=330&card_height=100" alt="Most used languages" />
+    <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=andrii0317&exclude_repo=github-readme-stats-2,github-readme-streak-stats,readme-typing-svg,github-readme-streak-stats-vercel,linkedin-skill-assessments-quizzes&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true&card_width=330&card_height=100" alt="Most used languages" />
    
 </div>  
 
