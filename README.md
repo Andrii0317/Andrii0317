@@ -14,9 +14,10 @@
 
 <!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
 
-<div align="center" dir="auto">
+<div align="center" dir="auto" style="display: flex; justify-content: center;">
   <h2>Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Andrii0317&show_icons=true&theme=radical" align="center" width="100%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Andrii0317&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/longphanquangminh/demo-achievement-justDraft/master/strip-le-fullstack-js-2-650-finalenglish-2-e1470529692491.jpg" width="512px"/>
 </div></br>
 
 <div align="center">
@@ -25,7 +26,7 @@
 
 <div align="center"><h2 font-weight="bold">I am a front-end web developer with 10+ years of experience..<h2></div>
 
-- <b>Main</b> Figma to Webflow | React | Next.js | Web3 | SmartContract | StaingContract | Solidity | Solana 
+- <b>Main</b> : Figma to Webflow | React | Next.js | Web3 | SmartContract | StaingContract | Solidity | Solana 
 - <b>Front-end</b> : Reactjs | Next.js | Vuejs | Angular | Svelte | JS/TS | TailWind CSS | Material | Styled Components | Bootstrap | Antd
 - <b>Back-end</b> : Node | Express | Django | Laravel | CodeIgniter
 - <b>Database</b> : Elasticsearch | Mysql | MongoDB | PostgreSQL | Firebase
