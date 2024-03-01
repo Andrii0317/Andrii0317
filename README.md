@@ -1,7 +1,7 @@
 <div align="center">
     
     
-![](https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Expert;Figma%20to%20React;React%20&%20Next.js%20Master;Smart%20contracts%20Specialist;10+%2B%20years%20of%20coding%20experience;Adapt%20well%20to%20new%20situation&font=Pacifico&center=true&width=650&height=120&color=40C463&vCenter=true&size=45%22)
+![](https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Expert;Figma%20to%20React;React%20&%20Next.js%20Master;Smart%20contracts%20Specialist;10+%2B%20years%20of%20Staking%20contracts%20experience;Adapt%20well%20to%20new%20situation&font=Pacifico&center=true&width=650&height=120&color=40C463&vCenter=true&size=45%22)
  
  ##
     
@@ -13,6 +13,11 @@
 </div>
 
 <!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
+<p align="left">
+<a href="https://codepen.io/Andrii0317" target="blank"><img align="center" src="https://raw.githubusercontent.com/Andrii0317/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hafizhfadh" height="30" width="40" /></a>
+<a href="https://dev.to/hafizhfadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/Andrii0317/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hafizhfadh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hafizhfadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/Andrii0317/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafizhfadh" height="30" width="40" /></a>
+</p>
 <div align="center" dir="auto">
   <h2>Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Andrii0317&show_icons=true&theme=radical" align="center" width="100%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Andrii0317&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
@@ -24,7 +29,7 @@
 
 <div align="center"><h2 font-weight="bold">I am a front-end web developer with 10+ years of experience..<h2></div>
 
-- <b>Main</b> HTML5 | CSS3(SASS,LESS) | JAVASCRIPT(ES6) | REACT | NEXT | PYTHON | MERN 
+- <b>Main</b> Figma to Webflow | React | Next.js | Web3 | SmartContract | StaingContract | Solidity | Solana 
 - <b>Front-end</b> : Reactjs | Next.js | Vuejs | Angular | Svelte | JS/TS | TailWind CSS | Material | Styled Components | Bootstrap | Antd
 - <b>Back-end</b> : Node | Express | Django | Laravel | CodeIgniter
 - <b>Database</b> : Elasticsearch | Mysql | MongoDB | PostgreSQL | Firebase
