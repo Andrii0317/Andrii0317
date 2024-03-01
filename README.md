@@ -13,11 +13,7 @@
 </div>
 
 <!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
-<p align="left">
-<a href="https://codepen.io/Andrii0317" target="blank"><img align="center" src="https://raw.githubusercontent.com/Andrii0317/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Andrii" height="30" width="40" /></a>
-<a href="https://dev.to/Andrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/Andrii0317/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Andrii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Andrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/Andrii0317/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andrii" height="30" width="40" /></a>
-</p>
+
 <div align="center" dir="auto">
   <h2>Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Andrii0317&show_icons=true&theme=radical" align="center" width="100%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Andrii0317&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
