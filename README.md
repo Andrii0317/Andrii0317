@@ -17,12 +17,10 @@
 <div align="center" dir="auto" style="display: flex; justify-content: center;">
   <h2>Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Andrii0317&show_icons=true&theme=radical" align="center" width="100%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Andrii0317&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/longphanquangminh/demo-achievement-justDraft/master/strip-le-fullstack-js-2-650-finalenglish-2-e1470529692491.jpg" width="512px"/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii0317&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div></br>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Andrii0317" style="max-width:100%"; />
-</div> 
+
 
 <div align="center"><h2 font-weight="bold">I am a front-end web developer with 10+ years of experience..<h2></div>
 
