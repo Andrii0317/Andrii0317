@@ -17,12 +17,11 @@
 <div align="center" dir="auto" style="display: flex; justify-content: center;">
   <h2>Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Andrii0317&show_icons=true&theme=radical" align="center" width="100%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Andrii0317&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
- <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Andrii0317&exclude_repo=github-readme-stats-2,github-readme-streak-stats,readme-typing-svg,github-readme-streak-stats-vercel,linkedin-skill-assessments-quizzes&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true&card_width=330&card_height=100" alt="Most used languages" />
 </div></br>
 
 
 
-<div align="center"><h2 font-weight="bold">I am a front-end web developer with 10+ years of experience..<h2></div>
+<div align="center"><h2 font-weight="bold">I am a front-end Web3 developer with 10+ years of experience..<h2></div>
 
 - <b>Main</b> : Figma to Webflow | React | Next.js | Web3 | SmartContract | StaingContract | Solidity | Solana 
 - <b>Front-end</b> : Reactjs | Next.js | Vuejs | Angular | Svelte | JS/TS | TailWind CSS | Material | Styled Components | Bootstrap | Antd
