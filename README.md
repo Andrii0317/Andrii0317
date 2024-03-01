@@ -1,7 +1,7 @@
 <div align="center">
     
     
-![](https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Expert;Figma%20to%20React;React%20Master;Smart%20contracts%20Specialist;10+%2B%20years%20of%20coding%20experience;Adapt%20well%20to%20new%20situation&font=Pacifico&center=true&width=650&height=120&color=40C463&vCenter=true&size=45%22)
+![](https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Expert;Figma%20to%20React;React%20&%20Next.js%20Master;Smart%20contracts%20Specialist;10+%2B%20years%20of%20coding%20experience;Adapt%20well%20to%20new%20situation&font=Pacifico&center=true&width=650&height=120&color=40C463&vCenter=true&size=45%22)
  
  ##
     
@@ -13,10 +13,14 @@
 </div>
 
 <!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
+<div align="center" dir="auto">
+  <h2>Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrii0317&show_icons=true&theme=radical" align="center" width="100%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Andrii0317&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
+</div></br>
+
 <div align="center">
-    <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=andrii0317&exclude_repo=github-readme-stats-2,github-readme-streak-stats,readme-typing-svg,github-readme-streak-stats-vercel,linkedin-skill-assessments-quizzes&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true&card_width=330&card_height=100" alt="Most used languages" />
-   
-</div>  
+<img src="https://github-profile-trophy.vercel.app/?username=Andrii0317" style="max-width:100%"; />
+</div> 
 
 <div align="center"><h2 font-weight="bold">I am a front-end web developer with 10+ years of experience..<h2></div>
 
