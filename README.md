@@ -15,7 +15,6 @@
 <!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
 
 <div align="center" dir="auto" style="display: flex; justify-content: center;">
-  <h2>Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Andrii0317&show_icons=true&theme=radical" align="center" width="100%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Andrii0317&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
 </div></br>
 
