@@ -1,7 +1,7 @@
 <div align="center">
     
     
-![](https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Expert;Figma%20to%20React;React%20&%20Next.js%20Master;Smart%20contracts%20Specialist;10+%2B%20years%20of%20Staking%20contracts%20experience;Adapt%20well%20to%20new%20situation&font=Pacifico&center=true&width=650&height=120&color=40C463&vCenter=true&size=45%22)
+![](https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Expert;Figma%20to%20React;React%20Next.js%20Master;Smart%20Staking%20contracts%20Specialist;10+%20years%20of%20Smart%20contracts%20experience;Adapt%20well%20to%20new%20situation&font=Pacifico&center=true&width=650&height=120&color=40C463&vCenter=true&size=45%22)
  
  ##
     
