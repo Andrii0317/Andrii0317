@@ -1,7 +1,7 @@
 <div align="center">
     
     
-![](https://readme-typing-svg.herokuapp.com/?lines=Figma%20to%20React;Smart%20Staking%20contracts%20Specialist;10+years%20of%20Smart%20Contracts%20experience;Adapt%20well%20to%20new%20situation&font=Pacifico&center=true&width=650&height=120&color=40C463&vCenter=true&size=45%22)
+![](https://readme-typing-svg.herokuapp.com/?lines=Figma%20to%20React;Smart%20Staking%20contracts%20Specialist;8%20years%20of%20Smart%20Contracts%20experience;solidity%20master&font=Pacifico&center=true&width=650&height=120&color=40C463&vCenter=true&size=45%22)
  
  ##
     
@@ -15,7 +15,7 @@
 <!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
 
 <div align="center" dir="auto" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrii0317&show_icons=true&theme=radical" align="center" width="100%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Andrii0317&amp;show_icons=true&amp;locale=en" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrii0317&show_icons=true&theme=radical" align="center" width="100%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Andrii0317&amp;show_icons=true&amp;locale=en" style="height: 180px;">
 </div></br>
 
 
