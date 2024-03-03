@@ -22,7 +22,7 @@
 
 <div align="center"><h2 font-weight="bold">I am a front-end Web3 developer with 10+ years of experience..<h2></div>
 
-- <b>Main</b> : Figma to Webflow | React | Next.js | Web3 | SmartContract | StaingContract | Solidity | Solana 
+- <b>Main</b> : Figma to React & Next.js | Web3 | Blockchain | SmartContract | StaingContract | ERC-20/FT & ERC-721/NFT | Solidity | Solana | DApps
 - <b>Front-end</b> : Reactjs | Next.js | Vuejs | Angular | Svelte | JS/TS | TailWind CSS | Material | Styled Components | Bootstrap | Antd
 - <b>Back-end</b> : Node | Express | Django | Laravel | CodeIgniter
 - <b>Database</b> : Elasticsearch | Mysql | MongoDB | PostgreSQL | Firebase
